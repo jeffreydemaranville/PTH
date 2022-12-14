@@ -8,3 +8,7 @@
 #jobs-table tr.job td, #jobs-table tr.job td a{
   font-size: 1.25em; 
 }
+
+#jobs-list {
+    overflow-x: initial;
+}
