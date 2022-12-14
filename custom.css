@@ -1,8 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Prata&display=swap');
 #jobs-table tr.section td:first-child{
   font-family: 'Prata', serif; 
-  font-size: 1.5em;
+  font-size: 2em;
   color: hsl(0, 0%, 40%);
+  text-align: center;
 }
 
 #jobs-table tr.job td, #jobs-table tr.job td a{
@@ -12,4 +13,14 @@
 
 #jobs-list {
     overflow-x: initial;
+}
+
+#jobs-table tr.job td.location {
+    color: #999999;
+    padding-right: 30px;
+}
+
+#container {
+    padding: 15px;
+    position: relative;
 }
