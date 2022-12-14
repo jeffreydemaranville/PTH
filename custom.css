@@ -5,6 +5,6 @@
   color: hsl(0, 0%, 40%);
 }
 
-tr.job td{
+#jobs-table tr.job td, #jobs-table tr.job td a{
   font-size: 1.25em; 
 }
