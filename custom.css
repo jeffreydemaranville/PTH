@@ -4,3 +4,7 @@
   font-size: 1.5em;
   color: hsl(0, 0%, 40%);
 }
+
+tr.job td{
+  font-size: 1.25em; 
+}
